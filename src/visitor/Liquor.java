@@ -2,6 +2,7 @@ package visitor;
 
 public class Liquor implements Visitable{
 
+	
 	private double price;
 	
 	Liquor(double item){
